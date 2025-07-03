@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reward/Point system with Microservices in Python
 Simple Microservices with django rest framework, Celery and RabbitMQ
 
@@ -279,3 +280,7 @@ Each user can only do 5 unsafe method operation(Add, Edit, Delete)  per minute
 ## Logging all transactions
 
 All transactions are logged
+=======
+# Notification-Delivery-Engine-
+A scalable backend service built with Node.js, Express.js, Redis Pub/Sub, and MongoDB to deliver real-time, scheduled, and asynchronous notifications to users. Designed to be lightweight, modular, and suitable for high-concurrency environments.
+>>>>>>> df6c0ad0b1a23b3c8fdbec82974e1e1ab8315f40

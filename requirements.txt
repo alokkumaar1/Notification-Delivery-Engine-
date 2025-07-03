@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 django==1.11.15 
 djangorestframework==3.3.7
 pillow==5.0.0
@@ -7,3 +8,13 @@ djangorestframework-jwt==1.11.0
 requests==2.18.4
 django-redis==4.8.0
 celery==4.1.0
+=======
+fastapi
+uvicorn
+celery
+redis
+python-dotenv
+sqlalchemy
+pydantic[email]
+twilio
+>>>>>>> df6c0ad0b1a23b3c8fdbec82974e1e1ab8315f40
